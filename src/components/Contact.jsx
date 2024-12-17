@@ -9,6 +9,7 @@ function Contact() {
           action="https://getform.io/f/lucasjsgoncalves@gmail.com"
           method="POST"
           className="flex flex-col w-full md:w-7/12"
+          name= "Netlify Form"
           netlify
         >
           <Title>Contato</Title>
